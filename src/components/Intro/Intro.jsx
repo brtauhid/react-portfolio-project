@@ -17,10 +17,11 @@ const intro = () => {
             </div>
           </div>
           <div className="i-desc">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas
-            architecto temporibus similique sed perferendis harum r.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta nisi
+            excepturi ducimus aperiam asperiores.
           </div>
         </div>
+        <div className="i-btn">Hire Me</div>
       </div>
       <div className="i-right">
         <div className="i-bg"></div>

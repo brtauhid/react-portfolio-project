@@ -6,8 +6,8 @@
 .i-left {
   flex: 1;
   display: flex;
-  align-items: center;
   justify-content: center;
+  flex-direction: column;
 }
 .i-right {
   flex: 1;
@@ -60,6 +60,19 @@
 }
 .i-desc {
   width: 70%;
+  margin-top: 20px;
+}
+.i-btn {
+  padding: 10px 20px;
+  background-color: #59b256;
+  width: 20%;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+  margin: 0 50px;
 }
 .i-right {
   position: relative;
